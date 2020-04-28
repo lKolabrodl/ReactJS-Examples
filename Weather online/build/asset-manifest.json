@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Examples/Weather%20online/build/static/css/main.47d9c17e.chunk.css",
+    "main.js": "/ReactJS-Examples/Weather%20online/build/static/js/main.b1f66357.chunk.js",
+    "main.js.map": "/ReactJS-Examples/Weather%20online/build/static/js/main.b1f66357.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Examples/Weather%20online/build/static/js/runtime-main.6c59dd83.js",
+    "runtime-main.js.map": "/ReactJS-Examples/Weather%20online/build/static/js/runtime-main.6c59dd83.js.map",
+    "static/js/2.4f629c2a.chunk.js": "/ReactJS-Examples/Weather%20online/build/static/js/2.4f629c2a.chunk.js",
+    "static/js/2.4f629c2a.chunk.js.map": "/ReactJS-Examples/Weather%20online/build/static/js/2.4f629c2a.chunk.js.map",
+    "index.html": "/ReactJS-Examples/Weather%20online/build/index.html",
+    "precache-manifest.ef1d55c485724d634445a33a6860aa92.js": "/ReactJS-Examples/Weather%20online/build/precache-manifest.ef1d55c485724d634445a33a6860aa92.js",
+    "service-worker.js": "/ReactJS-Examples/Weather%20online/build/service-worker.js",
+    "static/css/main.47d9c17e.chunk.css.map": "/ReactJS-Examples/Weather%20online/build/static/css/main.47d9c17e.chunk.css.map",
+    "static/js/2.4f629c2a.chunk.js.LICENSE.txt": "/ReactJS-Examples/Weather%20online/build/static/js/2.4f629c2a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ReactJS-Examples/Weather%20online/build/static/media/weather.2a870e8e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c59dd83.js",
+    "static/js/2.4f629c2a.chunk.js",
+    "static/css/main.47d9c17e.chunk.css",
+    "static/js/main.b1f66357.chunk.js"
+  ]
+}
