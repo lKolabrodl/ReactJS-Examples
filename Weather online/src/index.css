@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+#root {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(45, 176, 224, 1);
+  background: -moz-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(45, 176, 224, 1)), color-stop(100%, rgba(96, 40, 168, 1)));
+  background: -webkit-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
+  background: -o-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
+  background: -ms-linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
+  background: linear-gradient(45deg, rgba(45, 176, 224, 1) 0%, rgba(96, 40, 168, 1) 100%);
+}
+
+main {
+  height: 23vw;
+  background: #2a6bb1;
+  box-shadow: 0px 2px 80px -20px rgba(0, 0, 0, 0.5);
+  width: 60%;
+  margin: 0 auto;
+  display: flex;
+
+}
+
+h1,
+h2 {
+  color: #fff;
+  font-weight: 900;
+  font-size: 2vw;
+  text-align: center;
+}
+
+h1 {
+  padding-bottom: 20px;
+  font-size: 2.2vw;
+}
+
+.weather__info,
+.weather__input {
+  flex-basis: 50%;
+  max-width: 50%;
+}
+
+.weather__info {
+  background-image: url('./components/weather.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 10px 10px 30px 10px;
+}
+
+.weather__input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.weather__input__result {
+  width: 100%;
+}
+
+.weather__input__result ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.weather__input__result ul li {
+
+  display: flex;
+  color: #b8b8b8;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 10px;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.weather__input__result ul li p {
+  color: #e4e4e4;
+}
+
+.weather__input__result ul li.error p {
+  color: #041f3c;
+  font-weight: bold;
+}
+
+input[type="text"] {
+  background-color: transparent;
+  border: 0;
+  border-bottom: solid 2px #113a65;
+  width: 50%;
+  padding-bottom: 4px;
+  color: #fff;
+  font-weight: lighter;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  font-size: 20px;
+  outline: none;
+}
+
+input::-webkit-input-placeholder {
+  color: #103a65;
+}
+
+input::-moz-placeholder {
+  color: #103a65;
+}
+
+button {
+  border: 2px solid #103a65;
+  border-bottom: 3px solid #103a65;
+  padding: 8px 20px;
+  margin: 0 2px;
+  border-radius: 2px;
+  cursor: pointer;
+  background-color: #235d9c;
+  color: #fff;
+  outline: none !important;
+}
+
+button:hover {
+  border-bottom: 2px solid #103a65;
+  position: relative;
+  top: 2px;
+}
+
+button:active {
+  border-bottom: 2px solid transparent;
+  border-color: transparent;
+  position: relative;
+  top: 2px;
+}
