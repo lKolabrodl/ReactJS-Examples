@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Medium_Clone-REACT/static/js/main.a545a29e.chunk.js",
+    "main.js.map": "/Medium_Clone-REACT/static/js/main.a545a29e.chunk.js.map",
+    "runtime-main.js": "/Medium_Clone-REACT/static/js/runtime-main.fe9198c7.js",
+    "runtime-main.js.map": "/Medium_Clone-REACT/static/js/runtime-main.fe9198c7.js.map",
+    "static/js/2.49cd11be.chunk.js": "/Medium_Clone-REACT/static/js/2.49cd11be.chunk.js",
+    "static/js/2.49cd11be.chunk.js.map": "/Medium_Clone-REACT/static/js/2.49cd11be.chunk.js.map",
+    "index.html": "/Medium_Clone-REACT/index.html",
+    "precache-manifest.1351d43c6052d3ab818f50eecc3e6c8e.js": "/Medium_Clone-REACT/precache-manifest.1351d43c6052d3ab818f50eecc3e6c8e.js",
+    "service-worker.js": "/Medium_Clone-REACT/service-worker.js",
+    "static/js/2.49cd11be.chunk.js.LICENSE.txt": "/Medium_Clone-REACT/static/js/2.49cd11be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe9198c7.js",
+    "static/js/2.49cd11be.chunk.js",
+    "static/js/main.a545a29e.chunk.js"
+  ]
+}
