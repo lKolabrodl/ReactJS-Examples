@@ -1,6 +1,6 @@
-# Игра змейка.
- с каждый новым съединым объектом скорость возрастает,
- дошла до стенок - конец игры
+# Опрос / викторина
+Небольшое количсетво вопрос. В конце выводит результат
 <br>
-проект не развернуть на гитхаб для демонстрации.
-![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Snake%20game/Screenshot.png)
+ссылка на демонстрацию - https://lkolabrodl.github.io/quiz-react/
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Quiz/Screenshot_1.png)
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Quiz/Screenshot_2.png)
