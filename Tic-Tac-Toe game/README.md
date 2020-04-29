@@ -1,5 +1,7 @@
-# Weather API
+# Игра крестики нолики.
+3 в ряд или по диагонале  = выигрышь и сброс
+<br>
+ссылка на демонстрацию - https://lkolabrodl.github.io/tic-tac-toe-REACT/
 
-получаю данные с сайта https://openweathermap.org/
 
-![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Weather%20online/Screenshot.png)
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Tic-Tac-Toe/Screenshot.png)
