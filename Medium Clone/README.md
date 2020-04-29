@@ -8,5 +8,6 @@
 <br><br> 
 проект не получилось развернуть на гитхаб. для демонстрации используйте удаленный/локальный сервер
 <br><br> 
+
 ![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Medium%20Clone/Screenshot_1.png)
 
