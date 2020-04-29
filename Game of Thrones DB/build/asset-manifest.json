@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/GameofThrones-REACT/static/css/main.3fa60357.chunk.css",
+    "main.js": "/GameofThrones-REACT/static/js/main.3e1707b2.chunk.js",
+    "main.js.map": "/GameofThrones-REACT/static/js/main.3e1707b2.chunk.js.map",
+    "runtime-main.js": "/GameofThrones-REACT/static/js/runtime-main.2dea5e5e.js",
+    "runtime-main.js.map": "/GameofThrones-REACT/static/js/runtime-main.2dea5e5e.js.map",
+    "static/css/2.89f067aa.chunk.css": "/GameofThrones-REACT/static/css/2.89f067aa.chunk.css",
+    "static/js/2.28dd120f.chunk.js": "/GameofThrones-REACT/static/js/2.28dd120f.chunk.js",
+    "static/js/2.28dd120f.chunk.js.map": "/GameofThrones-REACT/static/js/2.28dd120f.chunk.js.map",
+    "index.html": "/GameofThrones-REACT/index.html",
+    "precache-manifest.921cd6712bd27129e838d5bda50b95f9.js": "/GameofThrones-REACT/precache-manifest.921cd6712bd27129e838d5bda50b95f9.js",
+    "service-worker.js": "/GameofThrones-REACT/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/GameofThrones-REACT/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.3fa60357.chunk.css.map": "/GameofThrones-REACT/static/css/main.3fa60357.chunk.css.map",
+    "static/js/2.28dd120f.chunk.js.LICENSE.txt": "/GameofThrones-REACT/static/js/2.28dd120f.chunk.js.LICENSE.txt",
+    "static/media/bookImage.jpg": "/GameofThrones-REACT/static/media/bookImage.ca7a996e.jpg",
+    "static/media/error404.png": "/GameofThrones-REACT/static/media/error404.d4195960.png",
+    "static/media/errorFatal.jpg": "/GameofThrones-REACT/static/media/errorFatal.339bdc2f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2dea5e5e.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.28dd120f.chunk.js",
+    "static/css/main.3fa60357.chunk.css",
+    "static/js/main.3e1707b2.chunk.js"
+  ]
+}
