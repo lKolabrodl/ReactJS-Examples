@@ -4,4 +4,4 @@
 ссылка на демонстрацию - https://lkolabrodl.github.io/tic-tac-toe-REACT/
 
 
-![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Tic-Tac-Toe/Screenshot.png)
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Tic-Tac-Toe%20game/Screenshot.png)
