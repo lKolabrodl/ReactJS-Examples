@@ -1,7 +1,6 @@
-# Игра крестики нолики.
-3 в ряд или по диагонале  = выигрышь и сброс
+# Игра змейка.
+ с каждый новым съединым объектом скорость возрастает,
+ дошла до стенок - конец игры
 <br>
-ссылка на демонстрацию - https://lkolabrodl.github.io/tic-tac-toe-REACT/
-
-
-![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Tic-Tac-Toe/Screenshot.png)
+проект не развернуть на гитхаб для демонстрации.
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Snake%20game/Screenshot.png)
