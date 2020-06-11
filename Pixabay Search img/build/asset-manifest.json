@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PixabaySearch-react/static/css/main.c2d03c51.chunk.css",
+    "main.js": "/PixabaySearch-react/static/js/main.829a5928.chunk.js",
+    "main.js.map": "/PixabaySearch-react/static/js/main.829a5928.chunk.js.map",
+    "runtime-main.js": "/PixabaySearch-react/static/js/runtime-main.8c169a39.js",
+    "runtime-main.js.map": "/PixabaySearch-react/static/js/runtime-main.8c169a39.js.map",
+    "static/js/2.c4df3f7c.chunk.js": "/PixabaySearch-react/static/js/2.c4df3f7c.chunk.js",
+    "static/js/2.c4df3f7c.chunk.js.map": "/PixabaySearch-react/static/js/2.c4df3f7c.chunk.js.map",
+    "index.html": "/PixabaySearch-react/index.html",
+    "precache-manifest.b5b23f7d4a35650877ea935e0287827d.js": "/PixabaySearch-react/precache-manifest.b5b23f7d4a35650877ea935e0287827d.js",
+    "service-worker.js": "/PixabaySearch-react/service-worker.js",
+    "static/css/main.c2d03c51.chunk.css.map": "/PixabaySearch-react/static/css/main.c2d03c51.chunk.css.map",
+    "static/js/2.c4df3f7c.chunk.js.LICENSE.txt": "/PixabaySearch-react/static/js/2.c4df3f7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c169a39.js",
+    "static/js/2.c4df3f7c.chunk.js",
+    "static/css/main.c2d03c51.chunk.css",
+    "static/js/main.829a5928.chunk.js"
+  ]
+}
