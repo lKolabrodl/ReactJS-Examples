@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/contactList-firebase-react/static/css/main.27502bae.chunk.css",
+    "main.js": "/contactList-firebase-react/static/js/main.e7b915da.chunk.js",
+    "main.js.map": "/contactList-firebase-react/static/js/main.e7b915da.chunk.js.map",
+    "runtime-main.js": "/contactList-firebase-react/static/js/runtime-main.4d329eb7.js",
+    "runtime-main.js.map": "/contactList-firebase-react/static/js/runtime-main.4d329eb7.js.map",
+    "static/js/2.dd1ce073.chunk.js": "/contactList-firebase-react/static/js/2.dd1ce073.chunk.js",
+    "static/js/2.dd1ce073.chunk.js.map": "/contactList-firebase-react/static/js/2.dd1ce073.chunk.js.map",
+    "index.html": "/contactList-firebase-react/index.html",
+    "precache-manifest.f006d898ec0a71e8d04f5979e4eb4ba4.js": "/contactList-firebase-react/precache-manifest.f006d898ec0a71e8d04f5979e4eb4ba4.js",
+    "service-worker.js": "/contactList-firebase-react/service-worker.js",
+    "static/css/main.27502bae.chunk.css.map": "/contactList-firebase-react/static/css/main.27502bae.chunk.css.map",
+    "static/js/2.dd1ce073.chunk.js.LICENSE.txt": "/contactList-firebase-react/static/js/2.dd1ce073.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d329eb7.js",
+    "static/js/2.dd1ce073.chunk.js",
+    "static/css/main.27502bae.chunk.css",
+    "static/js/main.e7b915da.chunk.js"
+  ]
+}
