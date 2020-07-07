@@ -1,5 +1,5 @@
 # Поиск фильмов, с занесением их в список просмотренные или смотреть. с сохранением в локал сторедж
-поиск фильмов по https://image.tmdb.org
+поиск фильмов по https://www.themoviedb.org
 <br><br>
 ссылка на демонстрацию - https://lkolabrodl.github.io/movieDB-react2/
 <br><br>
