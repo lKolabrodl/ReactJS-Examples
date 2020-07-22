@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+body {
+  background-color: rgba(0, 0, 0, .6);
+  color: #fff;
+}
+
+a {
+  color: #000;
+}
