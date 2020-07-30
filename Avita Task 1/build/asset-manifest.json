@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AvitoTask_1/static/css/main.c34d0cf0.chunk.css",
+    "main.js": "/AvitoTask_1/static/js/main.496ec337.chunk.js",
+    "main.js.map": "/AvitoTask_1/static/js/main.496ec337.chunk.js.map",
+    "runtime-main.js": "/AvitoTask_1/static/js/runtime-main.a8353d5e.js",
+    "runtime-main.js.map": "/AvitoTask_1/static/js/runtime-main.a8353d5e.js.map",
+    "static/js/2.cc16b1f9.chunk.js": "/AvitoTask_1/static/js/2.cc16b1f9.chunk.js",
+    "static/js/2.cc16b1f9.chunk.js.map": "/AvitoTask_1/static/js/2.cc16b1f9.chunk.js.map",
+    "index.html": "/AvitoTask_1/index.html",
+    "precache-manifest.6123047e4114899b2567934e4b1bbb03.js": "/AvitoTask_1/precache-manifest.6123047e4114899b2567934e4b1bbb03.js",
+    "service-worker.js": "/AvitoTask_1/service-worker.js",
+    "static/css/main.c34d0cf0.chunk.css.map": "/AvitoTask_1/static/css/main.c34d0cf0.chunk.css.map",
+    "static/js/2.cc16b1f9.chunk.js.LICENSE.txt": "/AvitoTask_1/static/js/2.cc16b1f9.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/AvitoTask_1/static/media/zoom.faaa8407.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8353d5e.js",
+    "static/js/2.cc16b1f9.chunk.js",
+    "static/css/main.c34d0cf0.chunk.css",
+    "static/js/main.496ec337.chunk.js"
+  ]
+}
