@@ -1,0 +1,38 @@
+.main__container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 10px;
+
+  .logo {
+    text-align: center;
+  }
+
+  .content {
+    display: flex;
+    justify-content: space-around;
+
+    .left {
+      flex-basis: 130px;
+    }
+
+    .right {
+      flex-basis: 500px;
+    }
+
+    .error {
+      margin-top: 50px;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+
+      button {
+        margin-top: 50px;
+        background: red;
+        color: #fff;
+        border: none;
+        height: 50px;
+        cursor: pointer;
+      }
+    }
+  }
+}

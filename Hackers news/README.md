@@ -1,9 +1,6 @@
-# Hackers news
-работа с апи - https://github.com/HackerNews/API
+# Avito task 1
 
-получаю id новости, после на каждый id новости подгружаю носость. (заголовок, время публикации, автор, ссылка на новость)
-<br>
-ссылка на демонстрацию - https://lkolabrodl.github.io/Hacker-news-react/
-<br><br>
+Тестовое задание Frontend
+ссылка на задание - https://github.com/avito-tech/safedeal-frontend-trainee
 
-![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/Hackers%20news/Screenshot_2020-07-22%20React%20App(1).png)
+ссылка на демонстрацию - https://lkolabrodl.github.io/AvitoTask_1/

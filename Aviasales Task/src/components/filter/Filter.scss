@@ -1,0 +1,29 @@
+.filter__tickets {
+  background: #FFFFFF;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 20px;
+
+  h5 {
+    white-space: nowrap;
+    font-weight: 600;
+    font-size: 12px;
+    color: #4A4A4A;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+  }
+
+  ul {
+    list-style-type: none;
+
+    li {
+      margin-top: 20px;
+
+      input {
+        margin-right: 5px;
+        color: #4A4A4A;
+        font-size: 13px;
+      }
+    }
+  }
+}

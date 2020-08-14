@@ -1,0 +1,55 @@
+.tiket__item {
+  display: flex;
+  flex-direction: column;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px 50px 20px 20px;
+
+  .tiket__item__price {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+
+    span {
+      color: #2196F3;
+      font-weight: 600;
+      font-size: 24px;
+    }
+  }
+
+  .tiket__flight__info {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+
+    .tiket__flight__info__place,
+    .tiket__flight__info__way,
+    .tiket__flight__info__transfer {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      flex-basis: 30%;
+
+      span {
+        text-transform: uppercase;
+        color: #A0B0B9;
+        font-weight: 600;
+        font-size: 12px;
+        margin-bottom: 5px;
+      }
+
+      time,
+      p {
+        color: #4A4A4A;
+        font-weight: 600;
+        font-size: 14px;
+      }
+    }
+
+    .tiket__flight__info__place {}
+
+  }
+}
