@@ -8,3 +8,9 @@
   line-height: 1;
   font-size: 100%;
 }
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  height: 100%;
+}

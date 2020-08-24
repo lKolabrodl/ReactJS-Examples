@@ -1,0 +1,19 @@
+.header {
+  height: 50px;
+  background-color: #222;
+
+  a {
+    color: #9d9d9d;
+    text-decoration: none;
+    height: 100%;
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.2rem;
+    transition: .3s;
+
+    &:hover {
+      color: #d9d9d9;
+    }
+  }
+
+}
