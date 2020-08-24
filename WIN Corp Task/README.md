@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/WIN%Corp%Task/Screenshot_1.png)
-![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/WIN%Corp%Task/Screenshot_2.png)
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/WIN%20Corp%20Task/Screenshot_1.png)
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/WIN%20Corp%20Task/Screenshot_2.png)
 
 
