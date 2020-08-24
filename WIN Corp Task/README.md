@@ -31,6 +31,10 @@
 
 Использовал для общения с firebase библиотеку - ""firebase": "^7.14.4"
 Для отображения и слежение за обновлением сообщений в чате использовал кастомный хук hooks/useChat.js
+<br/>
+<br/>
 
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/WIN%Corp%Task/Screenshot_1.png)
+![Alt text](https://raw.githubusercontent.com/lKolabrodl/ReactJS-Examples/master/WIN%Corp%Task/Screenshot_2.png)
 
 
